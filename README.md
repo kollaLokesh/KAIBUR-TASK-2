@@ -126,15 +126,26 @@ For Task 2 completion, capture screenshots of:
 
 1. **kubectl get pods -n task-management**
    - Shows MongoDB and application pods running
+   <img width="749" height="149" alt="image" src="https://github.com/user-attachments/assets/ae7e823d-5c96-4065-bcef-8201c208a37c" />
+
 
 2. **kubectl get services -n task-management**
    - Shows services and external IPs
+   <img width="863" height="125" alt="image" src="https://github.com/user-attachments/assets/e36146ba-75b7-4263-9636-0a1bf2eef709" />
+
 
 3. **kubectl get pv** and **kubectl get pvc -n task-management**
    - Shows persistent volumes and claims
+   <img width="851" height="142" alt="image" src="https://github.com/user-attachments/assets/daa76e9e-584b-40a6-880f-efedf824baf0" />
+   <img width="905" height="118" alt="image" src="https://github.com/user-attachments/assets/d4defb1d-8133-4c49-bdf3-052bb2a630b8" />
+
+
 
 4. **curl command testing application endpoint**
    - Shows successful API response from host machine
+   - <img width="884" height="143" alt="image" src="https://github.com/user-attachments/assets/fb1a726f-cf9b-4698-b485-d70dd00c9f87" />
+
+   
 
 ## 🏗️ Architecture
 
